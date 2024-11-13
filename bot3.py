@@ -11,7 +11,7 @@ from telegram import InlineQueryResultArticle, InputTextMessageContent
 import uuid
 
 # Configuration
-BOT_TOKEN = "7846552704:AAFSFpbYnMmCCbg8nkO7G99VPgEiuTYPgYQ"
+BOT_TOKEN = "7993719241:AAE6ItGn4ciaJv8c_Hjwlt01lTqhuqj9j8Q"
 CHANNEL_USERNAME = "@megasaruku0"
 ADMIN_ID = 1134468682
 
